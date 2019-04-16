@@ -1,0 +1,92 @@
+/* 
+ Localizable.strings
+ ArabDesigners
+ 
+ Created by Chitresh Goyal on 20/03/19.
+ Copyright © 2019 Nikita Kalra. All rights reserved.
+ */
+
+"Error: Unable to encode JSON"      = "Error: Unable to encode JSON";
+"Please check the URL : 400"        = "Please check the URL : 400";
+"Session Logged out"                = "Session Logged out";
+"Session Logged out"                = "Session Logged out";
+"Session Logged out"                = "Session Logged out";
+
+"Please enter name"             = "Please enter name";
+"Please enter valid name"       = "Please enter valid name";
+"Please enter message"          = "Please enter message";
+"Please login first"            = "Please login first";
+"Please enter email"                    = "Please enter email";
+"Please enter valid email"              = "Please enter valid email";
+"Please enter phone number"             = "Please enter phone number";
+"Please enter valid phone number"           = "Please enter valid phone number";
+"Password must be minimum 8 characters"     = "Password must be minimum 8 characters";
+"Please enter password"             = "Please enter password";
+"Please enter new password"         = "Please enter new password";
+"Please enter confirm password"     = "Please enter confirm password";
+"Password doesn't match"            = "Password doesn't match";
+"Please enter city"                 = "Please enter city";
+"Please enter state"                = "Please enter state";
+"Please enter code"                 = "Please enter code";
+"Please enter country"              = "Please enter country";
+"Please enter country first"        = "Please enter country first";
+"Please select language"            = "Please select language";
+"Please enter zipcode"              = "Please enter zipcode";
+"Please enter address"              = "Please enter address";
+"Please agree to our privacy policy"    = "Please agree to our privacy policy";
+"Please add profile image"              = "Please add profile image";
+"Profile updated successfully"          = "Profile updated successfully";
+"Password changed successfully"         = "Password changed successfully";
+"Signup successful"                     = "Signup successful";
+"Login successful"                      = "Login successful";
+"Alert"                                 = "Alert";
+"Ok"                                    = "Ok";
+"Camera is not supported"               = "Camera is not supported";
+"Unable to access the Camera"           = "Unable to access the Camera";
+"Cancel"                                = "Cancel";
+"Settings"                              = "Settings";
+"EnableCamera"                          = "To enable access, go to Settings > Privacy > Camera and turn on Camera access for this app.";
+"Delete Photo"                          = "Delete Photo";
+"Gallery"                               = "Gallery";
+"Camera"                                = "Camera";
+"Data not Found"                        = "Data not Found";
+"Product added into favorite list"      = "Product added into favorite list";
+"Product removed from favorite list"    = "Product removed from favorite list";
+"No Product Found"                      = "No Product Found";
+"Not Implement"                         = "Not Implement";
+"No Notification found"                 = "No Notification found";
+
+
+"HOME"  = "Home";
+"CHANGE LANGUAGE"   = "Change Language";
+"LOGIN" = "Login";
+"LOGOUT"    = "Logout";
+"Do you really want to logout?" = "Do you really want to logout?";
+"Error" = "Error";
+"Error Occured while Logging with Facebook!!"   = "Error Occured while Logging with Facebook!!";
+"Please Enter some message" = "Please Enter some message";
+"ExactCost"      = "The exact cost of your order is not finalized until you have confirmed your shipping destination at checkout";
+"items in your Shopping Bag"    = "items in your Shopping Bag";
+"Items:"        = "Items:";
+"Order No."     = "Order No.";
+"Placed on"     = "Placed on";
+"Category"      = "Category";
+"No response found" = "No response found";
+"Order Pending"     = "Order Pending";
+"Order Accepted"    = "Order Accepted";
+"Order Shipped"     = "Order Shipped";
+"Order Out For Delivery"    = "Order Out For Delivery";
+"Order Delivered"           = "Order Delivered";
+"Order Cancelled"           = "Order Cancelled";
+"Order Payment Pending"     = "Order Payment Pending";
+"Selected Size:"            = "Selected Size:";
+"Designed By"               = "Designed By";
+"Remove from Wishlist"      = "Remove from Wishlist";
+"Quantity:"                     = "Quantity: ";
+"Remove or move to Wishlist"    = "Remove or move to Wishlist";
+"Remove"                        = "Remove";
+"Move to WishList"              = "Move to WishList";
+"You're Saving:"                = "You're Saving:";
+"Payment Status: "              = "Payment Status: ";
+"Cash"  = "Cash on Delivery";
+"Paid"  = "Paid by Paytabs";

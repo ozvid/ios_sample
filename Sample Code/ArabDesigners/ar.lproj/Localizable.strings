@@ -1,0 +1,102 @@
+/*
+ Localizable.strings
+ ArabDesigners
+ 
+ Created by Chitresh Goyal on 20/03/19.
+ Copyright © 2019 Nikita Kalra. All rights reserved.
+ */
+
+"Error: Unable to encode JSON"      = "Error: Unable to encode JSON";
+"Please check the URL : 400"        = "Please check the URL : 400";
+"Session Logged out"                = "Session Logged out";
+"URL does not exists : 404"         = "URL does not exists : 404";
+"Server error, Please try again.."  = "Server error, Please try again..";
+
+"Please enter name"             = "الرجاء إدخال الاسم";
+"Please enter valid name"       = "الرجاء إدخال اسم صحيح";
+"Please enter message"          = "من فضلك ادخل الرسالة";
+"Please login first"            = "الرجاء تسجيل الدخول أولا";
+"Please enter email"                    = "الرجاء إدخال البريد الإلكتروني ";
+"Please enter valid email"              = " الرجاء إدخال بريد الكتروني صحيح ";
+"Please enter phone number"             = "الرجاء إدخال رقم الجوال";
+"Please enter valid phone number"           = "ا الرجاء إدخال رقم جوال صحيح";
+"Password must be minimum 8 characters"     = "يجب ألا تقل كلمة المرور عن 8 أحرف";
+"Please enter password"             = "الرجاء ادخال كلمة المرور";
+"Please enter new password"         = " الرجاء ادخال كلمة مرور جديدة";
+"Please enter confirm password"     = "الرجاء إدخال تأكيد كلمة المرور";
+"Password doesn't match"            = "كلمة المرور غير متطابقة ";
+"Please enter city"                 = "الرجاء إدخال المدينة";
+"Please enter state"                = "الرجاء إدخال المدينة";
+"Please enter code"                 = "من فضلك ادخل الكود";
+"Please enter country"              = "الرجاء إدخال البلد";
+"Please enter country first"        = "الرجاء إدخال البلد أولاً";
+"Please select language"            = " الرجاء اختيار اللغه ";
+
+"Please enter zipcode"              = "الرجاء إدخال الرمز البريدي";
+"Please enter address"              = "من فضلك ادخل العنوان ";
+"Please agree to our privacy policy"    = "يرجى الموافقة على سياسة الخصوصية الخاصة بنا";
+"Please add profile image"              = "يرجى إضافة صورة الملف الشخصي";
+"Profile updated successfully"          = "تم تحديث الملف الشخصي بنجاح";
+"Password changed successfully"         = " تم تغيير الرقم السري بنجاح ";
+"Signup successful"                     = "تم التسجيل بنجاح ";
+"Login successful"                      = "تم تسجيل الدخول بنجاح ";
+
+"Alert"                                 = "تنبيه";
+"Ok"                                    = "اوكي";
+"Unable to access camera"               = " غير قادر على الوصول إلى الكاميرا ";
+"Camera not supported"                  = "الكاميرا غير مدعومة ";
+"Cancel"                                = "الغاء";
+"Settings"                              = "الاعدادات";
+
+"Delete Photo"                          = " حذف الصوره";
+
+"EnableCamera"                          = "لتمكين الوصول ، انتقل إلى الإعدادات> الخصوصية> الكاميرا وتشغيل الوصول إلى الكاميرا لهذا التطبيق ";
+
+"Gallery"                               = "جاليري";
+"Camera"                                = "الكاميرا";
+
+"Data not Found"                        = "لم يتم العثور على بيانات ";
+"Product added into favorite list"      = "تمت إضافة المنتج لقائمة المفضلة";
+"Product removed from favorite list"    = "تمت إزالة المنتج من قائمة المفضلة ";
+"No Product Found"                      = " لم يتم العثور على منتج ";
+"Not Implement"                         = "غير مطبق";
+"No Notification found"                 = "لم يتم العثور على إخطار ";
+
+
+
+"HOME"              = "الصفحة الرئيسية";
+"CHANGE LANGUAGE"   = "تغيير اللغة ";
+"LOGIN"             = "تسجيل الدخول ";
+"LOGOUT"            = "تسجيل الخروج";
+"Error"             = "خطأ";
+
+"Do you really want to logout?" = "هل تريد حقًا تسجيل الخروج";
+"Please Enter some message"     = "الرجاء ادخال رسالة";
+"items in your Shopping Bag"    = "المنتجات في حقيبة التسوق ";
+
+"ExactCost"     = "لم يتم الانتهاء من التكلفة الدقيقة لطلبك حتى يتم تأكيد وجهة الشحن الخاصة بك في الدفع";
+"Error Occured while Logging with Facebook!!"   = "حدث خطأ أثناء التسجيل باستخدام Facebook ";
+
+"Items:"        = "المنتجات ";
+"Order No."     = "رقم الطلب";
+"Placed on"     = "تم في ";
+"Category"      = "الفئة ";
+"No response found" = " لم يتم العثور على استجابة";
+"Order Pending"     = "انتظار الطلب ";
+"Order Accepted"    = "تم قبول الطلب";
+"Order Shipped"     = "ترتيب شحنها";
+"Order Out For Delivery"    = "ترتيب خارج للتسليم";
+"Order Delivered"           = "تم تسليم الطلب";
+"Order Cancelled"           = "تم الغاء الطلب ";
+"Order Payment Pending"     = "طلب الدفع معلق ";
+"Selected Size:"            = "الحجم المختار:";
+"Designed By"               = "صمم بواسطة";
+"Remove from Wishlist"      = "حذف من قائمة الأمنيات";
+"Quantity:"                 = "كمية:";
+"Remove or move to Wishlist"    = "إزالة أو الانتقال إلى قائمة الأمنيات";
+"Remove"                = "إزالة";
+"Move to WishList"      = "الانتقال إلى قائمة الرغبات";
+"You're Saving:"        = "أنت تدخر:";
+"Payment Status: "      = "حالة السداد: ";
+"Cash"              = "الدفع عند الاستلام";
+"Paid"              = "يتحملها Paytabs";
